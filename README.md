@@ -2,7 +2,7 @@
 
 A clean, responsive group expense splitting and debt settlement web application. Hisaab tracks group expenses, computes net balances per person in real-time, and generates an optimal settle-up plan with the fewest possible transactions using a greedy cash flow minimization algorithm.
 
-**Live Demo:** [https://ascent-labs-task1-hisaab.vercel.app/](https://ascent-labs-task1-hisaab.vercel.app/) *(or deploy URL)*  
+**Live Demo:** [https://ascent-labs-task1.vercel.app/](https://ascent-labs-task1.vercel.app/)  
 **Repository:** [https://github.com/x-anish-y/AscentLabs_Task1](https://github.com/x-anish-y/AscentLabs_Task1)
 
 ---
